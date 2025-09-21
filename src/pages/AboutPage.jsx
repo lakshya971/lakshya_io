@@ -51,7 +51,7 @@ const AboutPage = () => {
               <p className='text-lg tracking-tight leading-relaxed'>
                 Started coding at 16, fell in love with creating things that people use. 
                 From building my first website to developing complex applications, 
-                every project teaches me something new.
+                every project teaches me something new
               </p>
             </div>
             
