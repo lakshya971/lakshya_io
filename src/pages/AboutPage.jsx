@@ -60,7 +60,7 @@ const AboutPage = () => {
               <ul className='text-lg space-y-2'>
                 <li>• FulL Stack Develot</li>
                 <li>• UI/UX Design</li>
-                <li>• Mobile App Development</li>
+                <li>• Mobile App Devement</li>
                 <li>• System Architecture</li>
               </ul>
             </div>
