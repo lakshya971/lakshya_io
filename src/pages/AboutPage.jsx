@@ -58,7 +58,7 @@ const AboutPage = () => {
             <div>
               <h3 className='text-2xl font-bold mb-4'>What I Do</h3>
               <ul className='text-lg space-y-2'>
-                <li>• FulL Stack Development</li>
+                <li>• FulL Stack Develot</li>
                 <li>• UI/UX Design</li>
                 <li>• Mobile App Development</li>
                 <li>• System Architecture</li>
